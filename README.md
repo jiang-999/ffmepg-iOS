@@ -40,6 +40,6 @@ This is a demo for displaying videos on the iOS platform using FFmpeg.
 ```
 效果图
 
-![效果图](IMG_3304-1.PNG)
+![效果图](IMG_999.PNG)
 # License
 本项目基于MIT协议开源。
